@@ -1,7 +1,5 @@
 package com.example.java;
 
-import java.math.BigDecimal;
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Main {
